@@ -18,3 +18,9 @@ body{
 .imagenes{
 	margin: 9px -55px 0px 0px;
 }
+.pie{
+	/*border: 1px ;*/
+	background: coral;		
+	color: white;
+	text-align: center;
+}
