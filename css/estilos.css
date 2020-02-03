@@ -24,3 +24,7 @@ body{
 	color: white;
 	text-align: center;
 }
+.cimagen{
+	margin: 0 0 0 -16px;
+    max-width: 1171px;
+}

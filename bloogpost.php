@@ -42,20 +42,7 @@
 			</h3>			
 		</div>
 
-		<!-- inicio de formulario -->
-		<!-- <div class="container">
-			<form class="caja">
-			  <div class="form-group">
-			    <label for="formGroupExampleInput">Example label</label>
-			    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Example input placeholder">
-			  </div>
-			  <div class="form-group">
-			    <label for="formGroupExampleInput2">Another label</label>
-			    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Another input placeholder">
-			  </div>
-			</form>
-		</div>	 -->
-
-		<!-- fin de formulario -->
-
+		<div class="container">
+			<img class="cimagen" src="imagenes/equipo.jpg">
+		</div>
 <?php include "footer.php" ?>
