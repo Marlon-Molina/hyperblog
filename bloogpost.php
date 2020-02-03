@@ -43,7 +43,7 @@
 		</div>
 
 		<!-- inicio de formulario -->
-		<div class="container">
+		<!-- <div class="container">
 			<form class="caja">
 			  <div class="form-group">
 			    <label for="formGroupExampleInput">Example label</label>
@@ -54,7 +54,7 @@
 			    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Another input placeholder">
 			  </div>
 			</form>
-		</div>	
+		</div>	 -->
 
 		<!-- fin de formulario -->
 
