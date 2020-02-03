@@ -42,7 +42,8 @@
 			</h3>			
 		</div>
 
-		<div class="container">
+		<div class="container" align="center">
 			<img class="cimagen" src="imagenes/equipo.jpg">
+			<!-- <blockquote class="imgur-embed-pub" lang="en" data-id="a/g2bjP0q"><a href="//imgur.com/a/g2bjP0q">Pupper jumps</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> -->
 		</div>
 <?php include "footer.php" ?>
