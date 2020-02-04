@@ -40,6 +40,7 @@
 			<h3>				
 				<a href="#">Suscribete y dale like</a>
 			</h3>			
+			<h4>fin del curso seguir gitLab y Devops finaliza el 4 debrero del 2019 hora 11:24</h4>
 		</div>
 
 		<div class="container" align="center">
